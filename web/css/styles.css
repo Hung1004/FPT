@@ -1,0 +1,110 @@
+body {
+  padding-top: 50px;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: rgba(0,0,0,0.8)!important;
+}
+
+.text-light.search {
+  margin-right: 3%;
+}
+
+.module {
+  padding-top: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .module {
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.product h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+@media (min-width: 576px) {
+  .product h1 {
+    font-size: 56px;
+    font-weight: bold;
+  }
+}
+
+.product h2 {
+  font-size: 21px;
+  font-weight: 400;
+}
+
+@media (min-width: 576px) {
+  .product h2 {
+    font-size: 27px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 576px) {
+  .product .links {
+    font-size: 21px;
+    margin-bottom: 80px;
+  }
+}
+
+.module .links .learn-more {
+  margin-right: 20px;
+}
+
+@media (min-width: 576px) {
+  .product.macbook-pro {
+    padding-bottom: 0;
+  }
+}
+
+.product.dark {
+  color: #fff;
+}
+
+.product.dark a {
+  color: #fff;
+}
+
+.product .links.small-link-margin {
+  margin-bottom: 0;
+}
+
+@media (min-width: 576px) {
+  .product-small {
+    margin: 0 0 10px 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.products-grid {
+  padding-right: 0;
+}
+
+@media (min-width: 576px) {
+  .products-grid {
+    padding-right: 10px;
+  }
+}
+
+.text-light.login {
+  margin-right: 1%;
+}
+
+.logo {
+  width: 40px;
+}
+
+.left {
+}
+

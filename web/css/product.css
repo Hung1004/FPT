@@ -1,0 +1,147 @@
+.module {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.lt-promotion-left {
+  float: left;
+  box-sizing: border-box;
+  width: 60%;
+  height: 100%;
+}
+
+.lt-promotion-right {
+  width: 40%;
+  height: 100%;
+  box-sizing: border-box;
+  float: right;
+}
+
+.product-iphone-11 {
+  background-color: black;
+  height: 50%;
+}
+
+.product-iphone-12 {
+  height: 50%;
+  margin-top: 5%
+}
+
+.lt-product-group-image {
+  text-align: center;
+}
+
+.lt-product-group-info {
+  padding: 0 10px 0px;
+  margin-top: 0;
+}
+
+a {
+  color: #d70018;
+  text-decoration: none;
+}
+
+.text-left.text-dark {
+  font-size: 14px;
+  font-weight: 700;
+  height: auto;
+}
+
+.price-box {
+  float: left;
+}
+
+.old-price {
+  margin-left: 10px!important;
+}
+
+.old-price .price {
+  font-size: 15px;
+  font-weight: 700;
+  color: #716b6b;
+  text-decoration: line-through;
+}
+
+.special-price .price {
+  font-size: 15px;
+  font-weight: 700;
+  color: #e11b1e;
+}
+
+.sticker-giam-gia {
+  width: 39px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0 5px;
+  background-image: url(https://cdn.cellphones.com.vn/media/sticker/sticker-giam-gia.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 12px;
+  font-weight: 700;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  right: 5px;
+  overflow: hidden;
+}
+
+.text-giam-gia {
+  margin: 0;
+  padding: 0;
+}
+
+.section-header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: solid 1px #eee;
+  margin-bottom: 20px;
+}
+
+.left h2 {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
+  padding: 10px 15px;
+  padding-right: 35px;
+  background: #f7f7f7 url(https://cdn.cellphones.com.vn/skin/frontend/default/cpsdesktop/images/heading-bg.jpg) top right no-repeat;
+  background-position: 101%;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.left.filter-panel {
+  line-height: 49px;
+  padding-left: 30px;
+}
+
+.product.iphone-11 .a {
+  margin-bottom: 16px;
+}
+
+.module.el-product-group {
+  margin-top: 31px!important;
+}
+
+.product-galaxy-s20 img {
+  margin-top: 11%;
+}
+
+.product-list {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.brand {
+  margin-right: 15px;
+}
+

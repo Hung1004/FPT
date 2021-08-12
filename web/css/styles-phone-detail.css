@@ -1,0 +1,44 @@
+#container-detail {
+    width: 70%;
+    margin: 30px auto 9% auto;
+    display: flex;
+}
+
+
+.detail {
+    border-bottom: solid 1px lightgray;
+    border-top: solid 1px lightgray;
+}
+
+.price-box1 {
+    display: flex;
+}
+
+.text-sm-right.special-price1 {
+    font-size: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+.old-price1 {
+    font-size: 20px;
+}
+
+.title {
+    width: 30%;
+}
+
+.content {
+    text-align: justify;
+}
+
+.btn.btn-dark.rounded-pill.py-2.btn-block {
+    height: 50px;
+    margin-top: 20px;
+}
+
+.configuration {
+    height: 400px;
+}
+
